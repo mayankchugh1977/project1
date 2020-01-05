@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01729719-f927-496c-81be-e1db891f7d7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1OuHKzJ8xyasB52M2Ra91FwS7nR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/binary/com/upgrad/priority/smallestRange/GFGFindSmallestRange.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/binary/com/upgrad/priority/smallestRange/GFGFindSmallestRange.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\solution\com\upgrad\assg\submitted" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\com\upgrad" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\com\upgrad\" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\oop\encapsulation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Search.prog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my doc\upgrad\projectPrelearning\src" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\dyna\prog" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\Search\sort" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\algo\module\one" />
+      <recent name="D:\my doc\upgrad\projectPrelearning\src\collect\array\copy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.debugger2">
+    <configuration name="MaximumSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary.com.upgrad.maximum.sum.pairs.MaximumSumPairs" />
+      <module name="projectPrelearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary.com.upgrad.maximum.sum.pairs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianStreamIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary.com.upgrad.Median.stream.integers.MedianStreamIntegers" />
+      <module name="projectPrelearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary.com.upgrad.Median.stream.integers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeKSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary.com.upgrad.merge.sorted.linked.list.MergeKSortedLinkedList" />
+      <module name="projectPrelearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary.com.upgrad.merge.sorted.linked.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueSmallestRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary.com.upgrad.priority.smallestRange.PriorityQueueSmallestRange" />
+      <module name="projectPrelearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary.com.upgrad.priority.smallestRange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="debugger2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.stack.debugger2" />
+      <module name="projectPrelearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.debugger2" />
+        <item itemvalue="Application.MaximumSumPairs" />
+        <item itemvalue="Application.MedianStreamIntegers" />
+        <item itemvalue="Application.MergeKSortedLinkedList" />
+        <item itemvalue="Application.PriorityQueueSmallestRange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01729719-f927-496c-81be-e1db891f7d7b" name="Default Changelist" comment="" />
+      <created>1564820501249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564820501249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Inspections" timestamp="1577000680079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1577000680079" />
+    <state x="552" y="181" key="#Notifications" timestamp="1576342238633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1576342238633" />
+    <state x="1437" y="299" width="245" height="657" key="#xdebugger.evaluate" timestamp="1576310929137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1437" y="299" width="245" height="657" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1576310929137" />
+    <state width="380" height="466" key="DebuggerActiveHint" timestamp="1576310981404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="380" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1576310981404" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1576966814008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576966814008" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1576963328880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576963328880" />
+    <state x="798" y="437" width="347" height="166" key="Github.CreateGistDialog" timestamp="1576342068104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="437" width="347" height="166" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576342068104" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1577959134242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577959134242" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1577959134242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577959134242" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1577959134242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577959134242" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1577959134242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577959134242" />
+    <state width="938" height="348" key="GridCell.Tab.1.bottom" timestamp="1577022871803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577022871803" />
+    <state width="938" height="348" key="GridCell.Tab.1.center" timestamp="1577022871803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577022871803" />
+    <state width="938" height="348" key="GridCell.Tab.1.left" timestamp="1577022871803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577022871803" />
+    <state width="938" height="348" key="GridCell.Tab.1.right" timestamp="1577022871803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577022871803" />
+    <state x="540" y="267" key="IDE.errors.dialog" timestamp="1577000647209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="267" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577000647209" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1577958077833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577958077833" />
+    <state x="605" y="118" width="710" height="804" key="find.popup" timestamp="1576298703642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="118" width="710" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576298703642" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576933327103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576933327103" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prelearning/practiceTest4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prelearning/WhileLoopTest5.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prelearning/DoWhileLoopTest3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prelearning/ForLoopMyClass.java</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prelearning/WhilePractice2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/encapsulation/BankAccountSavingAmount.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/collect/array/ArrayListThree.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/performace/LinkedListDelete.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/SumClass.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/SumClass.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/SumClass.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/SumClass.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/PrintStar.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo/module/one/ReverseDigits.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/LinearSearchOne.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/LinearSearchOne.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/LinearSearchOne.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/BinarySearchOne.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/BinarySearchOne.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/BinarySearchOne.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/BinarySearchOne.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/sort/BubbleSortSwapCount.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/sort/BubbleSortSwapCount.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/sort/Quadruple.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/sort/GradedTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/sort/GradedTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Search/prog/UpgradBookPartOne.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/lowest/common/ancestor/LowestCommonAncestor.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/spiral/traverse/SpiralLevelOrderTraversal.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/graded/bst/gradedBst.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/graded/bst/gradedBst.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/graded/bst/gradedBst.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/queue/PriorityQueueADT.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/smallestRange/PriorityQueueSmallestRange.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/merge/sorted/linked/list/MergeKSortedLinkedList.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/Median/stream/integers/MedianStreamIntegers.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/maximum/sum/pairs/MaximumSumPairs.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/encapsulation/CardGameSource.java</url>
+          <line>54</line>
+          <properties class="oop.encapsulation.ClassicGame" method="game">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>3</line>
+          <properties class="oop.Polymorphism.SchoolUniv" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>32</line>
+          <properties class="oop.Polymorphism.University" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>41</line>
+          <properties class="oop.Polymorphism.University" method="getName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>18</line>
+          <properties class="oop.Polymorphism.School" method="getName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>45</line>
+          <properties class="oop.Polymorphism.University" method="getNumStudents">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>48</line>
+          <properties class="performace.Institute" method="addStudent">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/performace/LinkedListDelete.java</url>
+          <line>38</line>
+          <properties class="performace.LinkedListDelete" method="deleteLastNode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/prog/BinarySearchOne.java</url>
+          <line>4</line>
+          <properties class="Search.prog.Source" method="getBinarySearchUnsuccessfulComparisonCount">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/sort/BubbleSortSwapCount.java</url>
+          <line>7</line>
+          <properties class="Search.sort.BubbleSortSwapCount" method="totalBubbleSortSwaps">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/sort/MergeSortMultipleArrayDescGraded.java</url>
+          <line>83</line>
+          <properties class="Search.sort.MergeSortMultipleArrayDescGraded" method="mergeBothInDescendingOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/sort/MergeSortMultipleArrayDescGraded.java</url>
+          <line>71</line>
+          <properties class="Search.sort.MergeSortMultipleArrayDescGraded" method="getArrayInput">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Search/sort/Quadruple.java</url>
+          <line>13</line>
+          <properties class="Search.sort.Quadruple" method="maxProdQuad">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/ConvertMaxHeapMinHeap.java</url>
+          <line>44</line>
+          <properties class="binary.com.upgrad.priority.convert.max.min.heap.ConvertMaxHeapMinHeap" method="buildHeap">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/priority/convert/max/min/heap/MinHeap.java</url>
+          <line>64</line>
+          <properties class="binary.com.upgrad.priority.convert.max.min.heap.MinHeap" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/binary/com/upgrad/merge/sorted/linked/list/MergeKSortedLinkedList.java</url>
+          <line>24</line>
+          <properties class="binary.com.upgrad.merge.sorted.linked.list.MergeKSortedLinkedList" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/oop/Polymorphism/SchoolUniv.java</url>
+          <line>29</line>
+          <properties field="type" class="oop.Polymorphism.University" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>30</line>
+          <properties field="name" class="performace.Institute" />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/performace/PraticeTest1.java</url>
+          <line>32</line>
+          <properties field="numberOfStudents" class="performace.Institute" />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ca" />
+        <watch expression="n" />
+        <watch expression="inputArr[middle]" />
+        <watch expression="array2[j]" />
+        <watch expression="inputArr[count]" />
+        <watch expression="root" />
+        <watch expression="q" />
+        <watch expression="s" />
+        <watch expression="arr[l]" />
+        <watch expression="priorityQueue" />
+        <watch expression="minHeapIndex" />
+        <watch expression="minHeapIndex.column" />
+        <watch expression="tmp" />
+        <watch expression="smaller" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/projectPrelearning$practiceTest4.ic" NAME="practiceTest4 Coverage Results" MODIFIED="1565235670505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/projectPrelearning$IsTheArrayGivenHeap.ic" NAME="IsTheArrayGivenHeap Coverage Results" MODIFIED="1576919896363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>binary.com.upgrad.priority.array.heap.*</FILTER>
+    </SUITE>
+  </component>
+</project>
