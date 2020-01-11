@@ -1,0 +1,45 @@
+48D, Blk 9, Caribbean Coast Phase 2, 1 Kin Tung Road, Tung Chung
+git config --global user.name "Mayank Chugh"
+git config --global user.name "Mayank Chugh"
+git config --global user.email “mayank.chugh@gmail.com”
+
+First time git setup:
+
+For the first time git configuration, you use the following commands:
+
+git config --global user.name "random”
+
+Using this, you will enter your GitHub username
+git config --global user.email “mayank.chugh@gmail.com”
+Using this, you will enter your GitHub username
+
+You only need to run the following git commands to commit any changes into your git repository and push those changes to GitHub:
+
+git status: Used to check which files are changed and not yet moved to the staging area
+git add filename or git add : Used to add specific files giving the filename or using the ‘git add .’ command to add all the unstaged files to the staging area
+git commit -m “New commit message”: Gives a new commit message and commits all the files sitting in the staging area
+git push -u origin master or git push: Used to upload all the files and changes that were included in the most recent commit to your remote repository on GitHub
+
+git init
+git add README.md
+git commit -m "Second commit"
+git remote add origin https://github.com/mayankchugh1977/project1.git
+git push -u origin master
+
+projectPrelearning
+
+git add projectPrelearning
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/mayankchugh1977/project1.git
+git push -u origin master
+
+git status
+
+git add projectPrelearning/src/algo/module/one/Demo.java
+
+git commit -m "added documentation projectPrelearning/src/algo/module/one/Demo.java"
+
+git remote add origin https://github.com/mayankchugh1977/project1.git
+git push -u origin master
