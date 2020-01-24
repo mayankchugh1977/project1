@@ -3,6 +3,7 @@ git config --global user.name "Mayank Chugh"
 git config --global user.name "Mayank Chugh"
 git config --global user.email “mayank.chugh@gmail.com”
 
+
 First time git setup:
 
 For the first time git configuration, you use the following commands:
@@ -45,5 +46,59 @@ git remote add origin https://github.com/mayankchugh1977/project1.git
 git push -u origin master
 
 git checkout -- filename: This command helps you when you have made some modifications to your file, say, file1, and you haven’t added those changes to the staging area or development history. Using this command will take you back to its previous state.
+
 git revert commit_id: This command helps you when you have already staged your files and committed the changes and want to go back to your previous commit. Instead of removing the previous commit from the project history, git revert will figure out how to undo the changes introduced by the previous commit and appends a new commit that reverts the content and the changes introduced by the previous commit. This prevents git from deleting any commits, which is important to maintain the integrity of your revision history
 git reset --hard commit_id: This command helps you when you have already staged your files and committed your changes, want to go back to your previous commit, and want to remove your present commit.Specifically, this command tells git to think of <commit_id> as the latest commit in your history and revert any file to what they were at <commit_id>. Any commit that you made after <commit_id> will no longer be in your history. In other words, git will dispose of any commits that happened after <commit_id> as if they never took place.
+
+----------------------------------------------------
+There are several problems when commits are directly pushed to master
+
+If you push a work-in-progress state to remote, the master is potentially broken
+If another developer starts work for a new feature from master, she starts with a potentially broken state. This slows down development
+Different features/bugfixes are not isolated, so that the complexity of all ongoing development tasks is combined in one branch. This increases the amount of communication necessary between all developers
+You cannot do pull requests which are very good mechanism for code reviews
+You cannot squash commits/change git history in general, as other developers might already have pulled the master branch in the meantime
+
+-----------------------------------------
+
+git config --global user.name "Mayank Chugh"
+git config --global user.email “mayank.chugh77@gmail.com”
+
+
+git init
+git add helloworldrepo
+git commit -m "first commit"
+
+git remote add origin https://bitbucket.org/mayankchugh77/helloworldrepojava/
+git push -u origin master
+
+
+
+ wget https://storage.googleapis.com/skl-training/aws-codelabs/aws-intro/HelloWorld.war
+ 
+ wget https://storage.googleapis.com/skl-training/aws-codelabs/aws-intro/HelloWorld.war
+ wget https://storage.googleapis.com/skl-training/aws-codelabs/aws-intro/Dockerfile
+ 
+ gcloud config list
+ 
+ gcloud config set project hybrid-dolphin-241708
+ 
+ gcloud config set compute/zone us-central-a
+ 
+ docker tag hello-world:latest gcr.io/hybrid-dolphin-241708/hello-world
+ 
+ docker push gcr.io/hybrid-dolphin-241708/hello-world
+ 
+ cd /opt/helloworld/
+ 
+ gcloud container clusters get-credentials helloworld-cluster --zone us-central1
+ 
+ kubectl get pods
+ 
+ kubectl get deployments
+ 
+ kubectl create deployment helloworld-dep --image=gcr.io/hybrid-dolphin-241708/hello-world:v1
+ 
+  kubectl get deployments
+  
+  kubectl expose deployment helloworld-dep --type=LoadBalancer --port 80 --target-port=8080

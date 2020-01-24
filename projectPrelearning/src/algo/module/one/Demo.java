@@ -29,6 +29,8 @@ public class Demo {
                 flag = 0;
             }
         }
+		
+		// final output based on flag
         if (flag == 1) {
             System.out.println("Entered number found at position:" + (i + 1));
         } else {
