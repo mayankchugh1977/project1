@@ -34,6 +34,18 @@ git branch branch3
 
 git checkout branch1
 
+git checkout master
+
+git meage branch1
+
+git meage branch3
+
+git branch -d branch1
+
+
+git diff master..branch1
+
+git diff
 
 --projectPrelearning
 
@@ -58,6 +70,34 @@ git checkout -- filename: This command helps you when you have made some modific
 git revert commit_id: This command helps you when you have already staged your files and committed the changes and want to go back to your previous commit. Instead of removing the previous commit from the project history, git revert will figure out how to undo the changes introduced by the previous commit and appends a new commit that reverts the content and the changes introduced by the previous commit. This prevents git from deleting any commits, which is important to maintain the integrity of your revision history
 git reset --hard commit_id: This command helps you when you have already staged your files and committed your changes, want to go back to your previous commit, and want to remove your present commit.Specifically, this command tells git to think of <commit_id> as the latest commit in your history and revert any file to what they were at <commit_id>. Any commit that you made after <commit_id> will no longer be in your history. In other words, git will dispose of any commits that happened after <commit_id> as if they never took place.
 
+
+In this video, you learnt about —
+
+Merging branches: For merging, you can use the command git merge <branchname>
+
+Note: This command will merge the changes in the branch <branchname> with the branch that you are currently working on. Merging can happen between all the branches. Imagine that you have three branches, namely —
+
+Master
+
+Branch1
+
+Branch2
+
+                    You can merge any one of the branches above with another one.
+
+Deleting branches: You can use the command git branch -d <branchname>
+
+ 
+
+Let's learn more about the git diff command.
+
+The git diff command: This command is used to show the changes performed between commits. The main objective of version control is to enable you to work with different versions of the same file. Hence, git provides the command 'diff' to allow you to compare between the different versions of your files. The most common scenario where 'diff' is used would be when you need to see what changes you had made after your last commit. Ways in which we can use the 'git diff' command:
+
+git diff commitid1 commitid2: To see the difference between two commits using their commit IDs
+
+git diff branch_name1..branch_name2: To see the difference between two different branches. Here, 'branch_name1' represents the branch you are currently working on
+
+git diff: This will show you all the changes made to all the files and branches, all at once
 ----------------------------------------------------
 There are several problems when commits are directly pushed to master
 
@@ -72,6 +112,9 @@ git branch <branchname>: This command will create a branch with the given branch
 git branch: This command will show you all the branches along with the HEAD pointing to the branch you are currently working on
 
 git checkout <branchname>: If you want to move from one branch to another, you can run this command
+
+
+Local repository is only available on the computer that it resides, i.e. its files, changes, commits, etc. cannot be seen by people using other computers. On the other hand, a remote repository is stored on Github (or any other Git hosting service), and its files, changes, commits, etc. in a repository can be accessed by other people with an internet connection. In other words, you would make changes to the project files, and commit those changes in your local repository. After which, you would push the commits in your local directory to a remote directory when you want to share those commits with other people.
 
 -----------------------------------------
 
