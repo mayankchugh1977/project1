@@ -59,6 +59,12 @@ Different features/bugfixes are not isolated, so that the complexity of all ongo
 You cannot do pull requests which are very good mechanism for code reviews
 You cannot squash commits/change git history in general, as other developers might already have pulled the master branch in the meantime
 
+git branch <branchname>: This command will create a branch with the given branch name
+
+git branch: This command will show you all the branches along with the HEAD pointing to the branch you are currently working on
+
+git checkout <branchname>: If you want to move from one branch to another, you can run this command
+
 -----------------------------------------
 
 git config --global user.name "Mayank Chugh"
@@ -102,3 +108,5 @@ git push -u origin master
   kubectl get deployments
   
   kubectl expose deployment helloworld-dep --type=LoadBalancer --port 80 --target-port=8080
+  
+  kubectl set image deployment helloworld-dep hello-world=gcr.io/hybrid-dolphin-241708/hello-world:3d0c31c
