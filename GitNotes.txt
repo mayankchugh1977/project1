@@ -27,7 +27,7 @@ git commit -m "Second commit"
 git remote add origin https://github.com/mayankchugh1977/project1.git
 git push -u origin master
 
-projectPrelearning
+--projectPrelearning
 
 git add projectPrelearning
 
