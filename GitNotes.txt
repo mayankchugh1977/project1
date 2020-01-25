@@ -64,6 +64,8 @@ git commit -m "added documentation projectPrelearning/src/algo/module/one/Demo.j
 
 git remote add origin https://github.com/mayankchugh1977/project1.git
 git push -u origin master
+git clone url
+
 
 git checkout -- filename: This command helps you when you have made some modifications to your file, say, file1, and you haven’t added those changes to the staging area or development history. Using this command will take you back to its previous state.
 
@@ -116,6 +118,20 @@ git checkout <branchname>: If you want to move from one branch to another, you c
 
 Local repository is only available on the computer that it resides, i.e. its files, changes, commits, etc. cannot be seen by people using other computers. On the other hand, a remote repository is stored on Github (or any other Git hosting service), and its files, changes, commits, etc. in a repository can be accessed by other people with an internet connection. In other words, you would make changes to the project files, and commit those changes in your local repository. After which, you would push the commits in your local directory to a remote directory when you want to share those commits with other people.
 
+
+git clone url
+
+On using the command 'git log --oneline', you should see —
+
+One commit per line
+
+The first seven characters of the commit SHA
+
+The commits message
+
+Basically, you may use the command 'git log --oneline' to see the commit details in one line along with all other mandatory details of the commit.
+
+git clone https://github.com/mayankchugh1977/Courses.git
 -----------------------------------------
 
 git config --global user.name "Mayank Chugh"
